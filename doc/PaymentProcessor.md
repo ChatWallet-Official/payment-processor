@@ -10,12 +10,12 @@
 
 | 名称 | 官网 | 加密友好 | 费率 | 集成难度 |
 | :--- | :--- | :----- | :--- | :----- |
-| *Stripe*     | https://stripe.com/                | ✅   | 2.90% + $0.30 | 优 |
+| ***Stripe***     | https://stripe.com/                | ✅   | 2.90% + $0.30 | 优 |
 | Square     | https://squareup.com/              | 不明 | 2.60% + $0.30 | 优 |
-| *Braintree*  | https://www.braintreepayments.com/ | 不明 | 2.59% + $0.49 | 优 |
-| *SumUp*      | https://sumup.com/                 | 不明 | 3.25% + $0.15 | 优 |
-| *Adyen*      | https://www.adyen.com/             | ✅   | Interchange + 0.60% + $0.12 | 良 |
-| *Worldpay*   | https://www.fisglobal.com/en/merchant-solutions-worldpay | ✅ | 未披露 | 良 |
+| ***Braintree***  | https://www.braintreepayments.com/ | 不明 | 2.59% + $0.49 | 优 |
+| ***SumUp***      | https://sumup.com/                 | 不明 | 3.25% + $0.15 | 优 |
+| ***Adyen***      | https://www.adyen.com/             | ✅   | Interchange + 0.60% + $0.12 | 良 |
+| ***Worldpay***   | https://www.fisglobal.com/en/merchant-solutions-worldpay | ✅ | 未披露 | 良 |
 | National Processing | https://nationalprocessing.com/ | 不明 | Interchange + 0.29% + $0.15 | 良 |
 | Helcim              | https://www.helcim.com/         | 不明 | Interchange + 0.50% + $0.25 | 良 |
 | Shopify Payments | https://www.shopify.com/payments   | ❌ | 2.40% + $0.30 + $299/Month | 差 |
