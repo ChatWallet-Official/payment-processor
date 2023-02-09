@@ -2,6 +2,8 @@
 
 支付解决方案提供商，简评。
 
+全球有数千家卡支付解决方案提供商，但是 Crypto 加密业务属于高危业务，愿意接受加密企业做卡支付的支付商不多。
+
 > https://www.topcreditcardprocessors.com/
 
 ![Crypto Merchant](./img/CryptoMerchant.png)
@@ -112,3 +114,4 @@ Shopify 费率很棒，但这俩货有点店大欺客，不太待见加密企业
 > https://www.uscardforum.com/t/topic/127680
 
 <!-- EOF -->
+
